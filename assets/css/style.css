@@ -29,7 +29,7 @@ body {
     color: white;
     padding: .5em;
     text-align: left;
-    position: relative;
+    position: absolute;
     left: 155px;
 }
 
@@ -38,7 +38,7 @@ body {
     color: gray;
     padding: .5em;
     text-align: right;
-    position: relative;
+    position: absolute;
     right: 155px;
 }
 
